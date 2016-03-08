@@ -3,5 +3,6 @@ This is a placeholder repository for the COMP361 software engineering project AI
 
 The project source cannot be made public until the course is complete.
 
-Please follow along with the released demos on:
+Please follow along with progress with the following demo:
 
+https://drbooltimeline.herokuapp.com/simulation/
